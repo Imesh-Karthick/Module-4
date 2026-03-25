@@ -29,6 +29,7 @@ obj = cse()
 obj.mech(r)
 
 ## Output
-
+<img width="336" height="164" alt="image" src="https://github.com/user-attachments/assets/eda0dfc9-23ba-456b-a9e6-ad7bec0efeee" />
 
 ## Result
+Thus the program was successfully executed and obtained the result.
